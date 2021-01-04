@@ -1,0 +1,4 @@
+com/seongjin/book/springboot/web/HelloControllerTest.java
+ com.seongjin.book.springboot.web.HelloControllerTest
+com/seongjin/book/springboot/Application.java
+ com.seongjin.book.springboot.Application

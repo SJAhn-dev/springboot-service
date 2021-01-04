@@ -1,0 +1,2 @@
+com/seongjin/book/springboot/Application.java
+ com.seongjin.book.springboot.Application
